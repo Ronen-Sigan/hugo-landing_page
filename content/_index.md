@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'Kansas'
 date: 2023-10-24
 type: landing
 
